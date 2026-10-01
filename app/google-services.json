@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811860277942",
+    "project_id": "taller3pv",
+    "storage_bucket": "taller3pv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811860277942:android:6fffe0587dfbb459b7c417",
+        "android_client_info": {
+          "package_name": "persona.com.taller3pv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPaf70198qrEVV1K7ifNmy6PLKZqxpTJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
